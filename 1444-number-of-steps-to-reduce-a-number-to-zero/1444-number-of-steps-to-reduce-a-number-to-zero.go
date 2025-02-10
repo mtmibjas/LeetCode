@@ -1,5 +1,5 @@
-func numberOfSteps(num int) int {
-    count := 0
+func numberOfSteps(num int) (count int) {
+  
     for num > 0 {
         if num%2 == 0 {
             num = num/2
