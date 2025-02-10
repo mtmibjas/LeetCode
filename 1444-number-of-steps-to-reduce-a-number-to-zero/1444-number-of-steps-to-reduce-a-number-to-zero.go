@@ -2,10 +2,10 @@ func numberOfSteps(num int) (count int) {
   
     for num != 0 {
         if num%2 == 0 {
-            num /= 2
+            num = num/2
             count++
         }else{
-            num -= 1
+            num = num - 1
             count++
         }
     }
