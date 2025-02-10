@@ -57,9 +57,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mtmibjas/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mtmibjas/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Trie
 |  |
 | ------- |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mtmibjas/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
+## Math
+|  |
+| ------- |
+| [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mtmibjas/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->
