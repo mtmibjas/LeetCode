@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/mtmibjas/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1755-defuse-the-bomb](https://github.com/mtmibjas/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mtmibjas/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3463-alternating-groups-i](https://github.com/mtmibjas/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/mtmibjas/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Two Pointers
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mtmibjas/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mtmibjas/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/mtmibjas/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3463-alternating-groups-i](https://github.com/mtmibjas/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/mtmibjas/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
 ## Prefix Sum
 |  |
