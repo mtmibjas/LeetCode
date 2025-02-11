@@ -1,6 +1,5 @@
-func numberOfAlternatingGroups(colors []int) int {
+func numberOfAlternatingGroups(n []int) int {
     count := 0
-    n := colors
     for i := 0; i < len(n); i++ {
         if i > len(n)-2 {
             if n[i] == n[1] && n[i] != n[0] {
