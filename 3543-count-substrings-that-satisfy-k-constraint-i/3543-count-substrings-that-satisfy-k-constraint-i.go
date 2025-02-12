@@ -7,8 +7,7 @@ func countKConstraintSubstrings(s string, k int) int {
         if string(s[i]) == "1" {
 			count1++
             count++
-		}
-		if string(s[i]) == "0" {
+		}else{
 			count2++
             count++
 		}
@@ -16,8 +15,7 @@ func countKConstraintSubstrings(s string, k int) int {
 		for left < len(s) {
 			if string(s[left]) == "1" {
 				count1++
-			}
-			if string(s[left]) == "0" {
+			}else{
 				count2++
 			}
             if count1 > k && count2 > k {
