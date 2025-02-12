@@ -1,31 +1,31 @@
 func countKConstraintSubstrings(s string, k int) int {
-    ln := 0
-    count := 0
-    for ln <= len(s)+1 {
-        ln++
-        for i :=0; i <= len(s)-ln; i++{
-            str := ""
-            if i+ln > len(s)-1{
-                  str = string(s[i:])
-            }else{
-                  str = string(s[i:i+ln])
-            }
+	
+	count := 0
 
-            z := 0
-            o := 0
-            for _, l := range str {
-                if string(l) == "1" {
-                    o++
-                }
-                if string(l) == "0" {
-                    z++
-                }
+	for i := 0; i < len(s); i++ {
+		count1, count2 := 0, 0
+        if string(s[i]) == "1" {
+			count1++
+            count++
+		}
+		if string(s[i]) == "0" {
+			count2++
+            count++
+		}
+		left := i + 1
+		for left < len(s) {
+			if string(s[left]) == "1" {
+				count1++
+			}
+			if string(s[left]) == "0" {
+				count2++
+			}
+            if count1 > k && count2 > k {
+                break
             }
-            if z <= k || o <= k{
-                count++
-            }
-        }
-        
-    }
-    return count
+            count++
+			left++
+		}
+	}
+	return count
 }
