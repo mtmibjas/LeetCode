@@ -1,15 +1,22 @@
 func duplicateZeros(arr []int)  {
     i := 0
-    for i < len(arr)-1 {
-        if arr[i] == 0 {
+    r := 0
+    m := make([]int, len(arr))
+    for i < len(arr) {
           
-            for j := len(arr)-2; j > i ; j-- {
-                arr[j+1] = arr[j] 
-            }
-            arr[i+1] = 0
+        if arr[r] == 0 && i < len(arr)-1 {
+            m[i] = 0
+            m[i+1] = 0
             i += 2
         }else{
+            m[i] = arr[r]
             i++
         }
+    
+        r++
+     
+    }
+    for i := 0; i < len(arr); i++ {
+        arr[i] = m[i]
     }
 }
