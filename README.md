@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/mtmibjas/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mtmibjas/LeetCode/tree/master/0015-3sum) |
+| [1168-duplicate-zeros](https://github.com/mtmibjas/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1603-running-sum-of-1d-array](https://github.com/mtmibjas/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1755-defuse-the-bomb](https://github.com/mtmibjas/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/mtmibjas/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/mtmibjas/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mtmibjas/LeetCode/tree/master/0015-3sum) |
+| [1168-duplicate-zeros](https://github.com/mtmibjas/LeetCode/tree/master/1168-duplicate-zeros) |
 ## Greedy
 |  |
 | ------- |
