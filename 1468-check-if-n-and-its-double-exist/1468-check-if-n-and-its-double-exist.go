@@ -1,13 +1,16 @@
 func checkIfExist(arr []int) bool {
-    m := make(map[int]int)
-    
-    for i, num := range arr{
-        m[num] = i
-    }
-    for i, num := range arr{
-        if v, ok := m[num*2]; ok && i != v {
+    m := make(map[int]struct{})
+
+    for _, num := range arr{
+        _, ok := m[num*2]  
+        if ok  {
             return true
         }
+        _, ok = m[num/2]
+        if ok &&  num%2 == 0 {
+            return true
+        }
+        m[num] = struct{}{}
     }
     return false
 }
