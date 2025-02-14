@@ -1,5 +1,5 @@
 func validMountainArray(arr []int) bool {
-    if len(arr) < 2 {
+    if len(arr) < 3 {
         return false
     }
     left := 0
