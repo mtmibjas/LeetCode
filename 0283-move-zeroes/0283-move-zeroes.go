@@ -1,15 +1,16 @@
 func moveZeroes(nums []int)  {
-    count := 0
+
+    arr := make([]int, 0)
     for i := 0; i < len(nums); i++ {
-        if nums[i] == 0 {
-            for j := i+1; j < len(nums); j++ {
-                if nums[j] != 0 {
-                    nums[i], nums[j] = nums[j], 0
-                    break 
-                }
-            }
-            count++
+        if nums[i] != 0 {
+            arr = append(arr, nums[i])
         } 
     }  
-    nums = nums[:count]
+    for i := 0; i < len(nums); i++ {
+        if i > len(arr)-1 {
+            nums[i] = 0
+        }else{
+            nums[i] = arr[i]
+        }
+    }
 }
