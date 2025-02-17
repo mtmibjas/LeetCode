@@ -1,8 +1,7 @@
 func containsDuplicate(nums []int) bool {
-    m := make(map[int]int)
-    for _, num := range nums{
-        m[num]++
-        if v, _ := m[num]; v > 1{
+    sort.Ints(nums)
+    for i := 1; i < len(nums); i++{
+        if nums[i] == nums[i-1]{
             return true
         }
     }
