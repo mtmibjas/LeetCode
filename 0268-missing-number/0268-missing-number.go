@@ -1,14 +1,13 @@
 func missingNumber(nums []int) int {
-    m := make(map[int]struct{})
-
-    for i := 0; i < len(nums); i++ {
-        m[nums[i]]= struct{}{}
-    }
-
+    sort.Ints(nums)
     for i := 0; i <= len(nums); i++ {
-        if _,ok := m[i]; !ok{
+       if i == len(nums) {
             return i
-        }
+       }
+       if i != nums[i] {
+            return i
+       }
     }
+
     return 0
 }
