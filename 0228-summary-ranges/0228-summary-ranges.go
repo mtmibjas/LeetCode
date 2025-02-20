@@ -1,34 +1,17 @@
 func summaryRanges(nums []int) []string {
-	start, end := 0, 0
+	start := 0
 	arr := make([]string, 0)
-	for end < len(nums) {
-        if end == len(nums)-1 {
-            str := strconv.Itoa(nums[start]) + "->" + strconv.Itoa(nums[end])
+	for end := 0; end < len(nums); end++ {
+		if end == len(nums)-1 || nums[end]+1 != nums[end+1] {
 			if start == end {
-				str = strconv.Itoa(nums[end])
+				arr = append(arr, strconv.Itoa(nums[end]))
+			} else {
+				arr = append(arr, strconv.Itoa(nums[start]) + "->" + strconv.Itoa(nums[end]))
 			}
-			arr = append(arr, str)
-            end++
-			continue
-        }
-		if nums[end]+1 == nums[end+1] {
-			end++
-			continue
-		} else {
-			str := strconv.Itoa(nums[start]) + "->" + strconv.Itoa(nums[end])
-			if start == end {
-				str = strconv.Itoa(nums[end])
-			}
-			arr = append(arr, str)
-			end++
-			start = end
+			start = end + 1
 		}
 
 	}
-	if end == len(nums)-1 {
-		str := strconv.Itoa(nums[end])
-		arr = append(arr, str)
 
-	}
 	return arr
 }
