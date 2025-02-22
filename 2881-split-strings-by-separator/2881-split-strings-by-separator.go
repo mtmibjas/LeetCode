@@ -10,8 +10,7 @@ func splitWordsBySeparator(words []string, separator byte) []string {
 				}
 				s = i + 1
 
-			}
-			if  str := string(w[s:]); str != "" && i == len(w)-1 {
+			}else if  str := string(w[s:]); str != "" && i == len(w)-1 {
 				arr = append(arr, str)
 			}
 		}
