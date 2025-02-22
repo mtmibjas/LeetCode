@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/mtmibjas/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1791-richest-customer-wealth](https://github.com/mtmibjas/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/mtmibjas/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2881-split-strings-by-separator](https://github.com/mtmibjas/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mtmibjas/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3463-alternating-groups-i](https://github.com/mtmibjas/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/mtmibjas/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/mtmibjas/LeetCode/tree/master/0500-keyboard-row) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mtmibjas/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mtmibjas/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2881-split-strings-by-separator](https://github.com/mtmibjas/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/mtmibjas/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/mtmibjas/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Hash Table
