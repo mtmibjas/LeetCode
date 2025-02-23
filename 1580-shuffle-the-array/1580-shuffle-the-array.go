@@ -1,10 +1,11 @@
 func shuffle(nums []int, n int) []int {
     
-    i := 0
-    var arr []int
-    for i < n {
-        arr = append(arr, nums[i], nums[i+n])
-        i++
+    i, j := 0, 0
+    arr := make([]int, len(nums))
+    for j < n {
+        arr[i],arr[i+1] = nums[j], nums[j+n]
+        i += 2
+        j++
     }
     return arr
 }
