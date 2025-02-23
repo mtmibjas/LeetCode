@@ -1,12 +1,10 @@
 func shuffle(nums []int, n int) []int {
     
-    xi := 0
-    yi := n
+    i := 0
     var arr []int
-    for yi < len(nums) {
-        arr = append(arr, nums[xi], nums[yi])
-        xi++
-        yi++
+    for i < n {
+        arr = append(arr, nums[i], nums[i+n])
+        i++
     }
     return arr
 }
