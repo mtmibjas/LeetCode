@@ -16,7 +16,6 @@ func sumOfGoodNumbers(nums []int, k int) int {
 		}else{
             sum += nums[i]
         }
-        fmt.Println(sum)
 	}
 
 	return sum
