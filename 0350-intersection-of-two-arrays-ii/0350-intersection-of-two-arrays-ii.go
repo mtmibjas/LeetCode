@@ -8,7 +8,7 @@ func intersect(nums1 []int, nums2 []int) []int {
     for i < len(sharr){
         if index := slices.Index(lnarr, sharr[i]); index != -1 {
             arr = append(arr, sharr[i])
-            lnarr[index] = 9999
+            lnarr[index] = -1
         }
         i++
     }
