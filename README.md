@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/mtmibjas/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/mtmibjas/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mtmibjas/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/mtmibjas/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3463-alternating-groups-i](https://github.com/mtmibjas/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mtmibjas/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3644-minimum-positive-sum-subarray](https://github.com/mtmibjas/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
