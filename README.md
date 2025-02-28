@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3193-maximum-strong-pair-xor-i](https://github.com/mtmibjas/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/mtmibjas/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/mtmibjas/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/mtmibjas/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3463-alternating-groups-i](https://github.com/mtmibjas/LeetCode/tree/master/3463-alternating-groups-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mtmibjas/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3644-minimum-positive-sum-subarray](https://github.com/mtmibjas/LeetCode/tree/master/3644-minimum-positive-sum-subarray) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3193-maximum-strong-pair-xor-i](https://github.com/mtmibjas/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/mtmibjas/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/mtmibjas/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/mtmibjas/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mtmibjas/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Counting
 |  |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mtmibjas/LeetCode/tree/master/0268-missing-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mtmibjas/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mtmibjas/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/mtmibjas/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Trie
 |  |
 | ------- |
