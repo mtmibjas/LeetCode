@@ -2,18 +2,19 @@ func minElement(nums []int) int {
 	min := 99999
 
 	for i := 0; i < len(nums); i++ {
-		d, s := nums[i], 0
-		if nums[i] < 10 {
-            if nums[i] < min {
-                min = nums[i]
-            }
-			continue
+		 s := 0
+		if nums[i] > 9 {
+            d := nums[i] 
+			for d > 0 {
+				r := d % 10
+				s += r
+				d = d / 10
+			}
+            
+		} else {
+            s = nums[i]
 		}
-		for d > 0 {
-			r := d % 10
-			s += r
-			d = d / 10
-		}
+
 		if s < min {
 			min = s
 		}
