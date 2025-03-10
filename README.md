@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/mtmibjas/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2058-concatenation-of-array](https://github.com/mtmibjas/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2159-two-out-of-three](https://github.com/mtmibjas/LeetCode/tree/master/2159-two-out-of-three) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/mtmibjas/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/mtmibjas/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/mtmibjas/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/mtmibjas/LeetCode/tree/master/2881-split-strings-by-separator) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/mtmibjas/LeetCode/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mtmibjas/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mtmibjas/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/mtmibjas/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/mtmibjas/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mtmibjas/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mtmibjas/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2210-find-target-indices-after-sorting-array](https://github.com/mtmibjas/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Counting Sort
 |  |
 | ------- |
