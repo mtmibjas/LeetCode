@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3723-sum-of-good-numbers](https://github.com/mtmibjas/LeetCode/tree/master/3723-sum-of-good-numbers) |
 | [3731-sum-of-variable-length-subarrays](https://github.com/mtmibjas/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/mtmibjas/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3778-transform-array-by-parity](https://github.com/mtmibjas/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mtmibjas/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/mtmibjas/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [3226-minimum-number-game](https://github.com/mtmibjas/LeetCode/tree/master/3226-minimum-number-game) |
+| [3778-transform-array-by-parity](https://github.com/mtmibjas/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Sliding Window
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/mtmibjas/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mtmibjas/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/mtmibjas/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
+| [3778-transform-array-by-parity](https://github.com/mtmibjas/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Bit Manipulation
 |  |
 | ------- |
