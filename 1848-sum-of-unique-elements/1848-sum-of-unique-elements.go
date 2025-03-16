@@ -1,14 +1,18 @@
 func sumOfUnique(nums []int) int {
-	m := make(map[int]int)
-	sum := 0
-	for _, num := range nums {
-		m[num]++
-		c := m[num]
-		if c == 1 {
-			sum += num
-		} else if c == 2 {
-			sum -= num
+
+	sort.Ints(nums)
+	sum := nums[0]
+	is := false
+	for i := 1; i < len(nums); i++ {
+		if nums[i-1] == nums[i] {
+			if !is {
+				sum -= nums[i]
+			}
+			is = true
+			continue
 		}
+		is = false
+		sum += nums[i]
 	}
-    return sum
+	return sum
 }
