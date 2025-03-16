@@ -1,14 +1,8 @@
 func distinctAverages(nums []int) int {
     sort.Ints(nums)
-
-    b := 0
-    e := len(nums)-1
     m := make(map[float64]struct{})
-    for b < e{
-        f := float64(nums[b]+nums[e])/2
-        m[f]=struct{}{}
-        b++
-        e--
+    for i,j := 0, len(nums)-1; i < j; i,j = i+1, j-1{
+        m[float64(nums[i]+nums[j])/2]=struct{}{}
     }
     return len(m)
 }
