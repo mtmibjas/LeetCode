@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mtmibjas/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/mtmibjas/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/mtmibjas/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mtmibjas/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/mtmibjas/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/mtmibjas/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0500-keyboard-row](https://github.com/mtmibjas/LeetCode/tree/master/0500-keyboard-row) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mtmibjas/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/mtmibjas/LeetCode/tree/master/1524-string-matching-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/mtmibjas/LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
