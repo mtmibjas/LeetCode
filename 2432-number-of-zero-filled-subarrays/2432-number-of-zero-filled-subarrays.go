@@ -1,23 +1,23 @@
 func zeroFilledSubarray(nums []int) int64 {
-   
+
 	count := 0
-    arr := []int{}
+	sum := 0
+
 	for i := 0; i < len(nums); i++ {
-        if nums[i] == 0 {
-           count++ 
-        }else {
-            if count != 0 {
-                arr = append(arr, count)
-            }
-            count = 0
-        }
+		if nums[i] == 0 {
+			count++
+			continue
+		}
+		if count != 0 {
+			sum += ((count + count*count) / 2)
+		}
+		count = 0
+
 	}
-    if count != 0 {
-         arr = append(arr, count)
-    }
-    sum := 0
-    for _, num := range arr {
-        sum += ((num+num*num)/2)
-    } 
-    return int64(sum) 
+	if count != 0 {
+
+		sum += ((count + count*count) / 2)
+	}
+
+	return int64(sum)
 }
