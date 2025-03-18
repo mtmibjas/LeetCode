@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/mtmibjas/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2159-two-out-of-three](https://github.com/mtmibjas/LeetCode/tree/master/2159-two-out-of-three) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/mtmibjas/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/mtmibjas/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2561-number-of-distinct-averages](https://github.com/mtmibjas/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [2639-separate-the-digits-in-an-array](https://github.com/mtmibjas/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/mtmibjas/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mtmibjas/LeetCode/tree/master/0268-missing-number) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mtmibjas/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mtmibjas/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/mtmibjas/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mtmibjas/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mtmibjas/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/mtmibjas/LeetCode/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
