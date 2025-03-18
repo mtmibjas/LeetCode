@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/mtmibjas/LeetCode/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/mtmibjas/LeetCode/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mtmibjas/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mtmibjas/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/mtmibjas/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mtmibjas/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/mtmibjas/LeetCode/tree/master/0217-contains-duplicate) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mtmibjas/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/mtmibjas/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
 | ------- |
