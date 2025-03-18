@@ -10,7 +10,6 @@ func firstMissingPositive(nums []int) int {
 	if nums[n-1] > 0 {
 		pNums = append(pNums, nums[n-1])
 	}
-	fmt.Println(pNums)
 	if len(pNums) == 0 {
 		return 1
 	}
