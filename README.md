@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/mtmibjas/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mtmibjas/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/mtmibjas/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/mtmibjas/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/mtmibjas/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2058-concatenation-of-array](https://github.com/mtmibjas/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2159-two-out-of-three](https://github.com/mtmibjas/LeetCode/tree/master/2159-two-out-of-three) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/mtmibjas/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1168-duplicate-zeros](https://github.com/mtmibjas/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mtmibjas/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/mtmibjas/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2561-number-of-distinct-averages](https://github.com/mtmibjas/LeetCode/tree/master/2561-number-of-distinct-averages) |
 ## Greedy
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-relative-sort-array](https://github.com/mtmibjas/LeetCode/tree/master/1217-relative-sort-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mtmibjas/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mtmibjas/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/mtmibjas/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/mtmibjas/LeetCode/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2561-number-of-distinct-averages](https://github.com/mtmibjas/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [3226-minimum-number-game](https://github.com/mtmibjas/LeetCode/tree/master/3226-minimum-number-game) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/mtmibjas/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mtmibjas/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mtmibjas/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/mtmibjas/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/mtmibjas/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mtmibjas/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2159-two-out-of-three](https://github.com/mtmibjas/LeetCode/tree/master/2159-two-out-of-three) |
