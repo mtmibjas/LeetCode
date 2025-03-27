@@ -16,17 +16,13 @@ func validMountainArray(arr []int) bool {
         if arr[right] < arr[right-1] {
             right--
         }
-        
-
         if move == right - left{
             return false
         }
         move = right -left
-
     }
     if left == 0 ||  right == len(arr)-1 {
         return false
     }
     return true
-    
 }
