@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/mtmibjas/LeetCode/tree/master/0605-can-place-flowers) |
 | [0941-sort-array-by-parity](https://github.com/mtmibjas/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/mtmibjas/LeetCode/tree/master/0978-valid-mountain-array) |
+| [1044-find-common-characters](https://github.com/mtmibjas/LeetCode/tree/master/1044-find-common-characters) |
 | [1168-duplicate-zeros](https://github.com/mtmibjas/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/mtmibjas/LeetCode/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/mtmibjas/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mtmibjas/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/mtmibjas/LeetCode/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/mtmibjas/LeetCode/tree/master/0500-keyboard-row) |
+| [1044-find-common-characters](https://github.com/mtmibjas/LeetCode/tree/master/1044-find-common-characters) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mtmibjas/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1524-string-matching-in-an-array](https://github.com/mtmibjas/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/mtmibjas/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mtmibjas/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/mtmibjas/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/mtmibjas/LeetCode/tree/master/0500-keyboard-row) |
+| [1044-find-common-characters](https://github.com/mtmibjas/LeetCode/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/mtmibjas/LeetCode/tree/master/1217-relative-sort-array) |
 | [1319-unique-number-of-occurrences](https://github.com/mtmibjas/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mtmibjas/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
