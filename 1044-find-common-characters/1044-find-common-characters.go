@@ -1,15 +1,15 @@
 func commonChars(words []string) []string {
   
-    c := []string{}
+    c := []rune{}
     for _, w := range words[0] {
-        c = append(c , string(w))
+        c = append(c , w)
     } 
     com := []string{}
     arr := words[1:]
     for _, s := range c {
         isCom := true
         for i, str := range arr{
-            v := strings.Index(str, s)
+            v := strings.IndexRune(str, s)
             if v == -1 {
                 isCom = false
                 break
@@ -21,7 +21,7 @@ func commonChars(words []string) []string {
             } 
         }
         if isCom {
-            com = append(com, s)
+            com = append(com, string(s))
         }
     }
 
