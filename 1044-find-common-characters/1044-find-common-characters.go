@@ -1,34 +1,30 @@
 func commonChars(words []string) []string {
   
-    arr := make([][]string,len(words))
-
-    for i, word := range words {
-        a := make([]string, len(word))
-        for j, w := range word {
-            a[j] = string(w)
-        }
-        arr[i] = a
-    }
-    if len(arr) ==1 {
-        return arr[0]
-    }
-
-    m := []string{}
-    for _, c := range arr[0]{
-        is := true
-        for _,word := range arr[1:] {
-            v := slices.Index(word, string(c))
+    c := []string{}
+    for _, w := range words[0] {
+        c = append(c , string(w))
+    } 
+    com := []string{}
+    arr := words[1:]
+    for _, s := range c {
+        isCom := true
+        for i, str := range arr{
+            v := strings.Index(str, s)
             if v == -1 {
-                is = false
+                isCom = false
                 break
             }
-            word[v] = ""
+            if v == len(str) -1 {
+                arr[i] = str[:v]
+            }else{
+                arr[i] = str[:v]+str[v+1:]
+            } 
         }
-        if is {
-            m = append(m, string(c))
+        if isCom {
+            com = append(com, s)
         }
     }
 
-    return m
+    return com
     
 }
