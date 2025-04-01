@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/mtmibjas/LeetCode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/mtmibjas/LeetCode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/mtmibjas/LeetCode/tree/master/0605-can-place-flowers) |
+| [0643-maximum-average-subarray-i](https://github.com/mtmibjas/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0941-sort-array-by-parity](https://github.com/mtmibjas/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [0978-valid-mountain-array](https://github.com/mtmibjas/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1044-find-common-characters](https://github.com/mtmibjas/LeetCode/tree/master/1044-find-common-characters) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/mtmibjas/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mtmibjas/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1755-defuse-the-bomb](https://github.com/mtmibjas/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mtmibjas/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
