@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/mtmibjas/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/mtmibjas/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mtmibjas/LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/mtmibjas/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/mtmibjas/LeetCode/tree/master/0443-string-compression) |
 | [0941-sort-array-by-parity](https://github.com/mtmibjas/LeetCode/tree/master/0941-sort-array-by-parity) |
 | [1168-duplicate-zeros](https://github.com/mtmibjas/LeetCode/tree/master/1168-duplicate-zeros) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/mtmibjas/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/mtmibjas/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mtmibjas/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/mtmibjas/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/mtmibjas/LeetCode/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/mtmibjas/LeetCode/tree/master/0500-keyboard-row) |
 | [1044-find-common-characters](https://github.com/mtmibjas/LeetCode/tree/master/1044-find-common-characters) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/mtmibjas/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mtmibjas/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mtmibjas/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/mtmibjas/LeetCode/tree/master/0392-is-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
