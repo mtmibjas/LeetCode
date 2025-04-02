@@ -1,18 +1,18 @@
 func maxVowels(s string, k int) int {
-	v := []byte{'a', 'e', 'i', 'o', 'u'}
+	v := map[byte]struct{}{'a': struct{}{}, 'e': struct{}{}, 'i': struct{}{}, 'o': struct{}{}, 'u': struct{}{}}
 
 	initalCount := 0
 	for i := 0; i < k; i++ {
-		if slices.Contains(v, s[i]) {
+		if _, ok := v[s[i]]; ok {
 			initalCount++
 		}
 	}
 	m := initalCount
 	for i := 1; i < len(s)-k+1; i++ {
-		if slices.Contains(v, s[i-1]) {
+		if  _, ok := v[s[i-1]]; ok{
 			initalCount--
 		}
-		if slices.Contains(v, s[i+k-1]) {
+		if  _, ok := v[s[i+k-1]]; ok {
 			initalCount++
 		}
 		if m < initalCount {
