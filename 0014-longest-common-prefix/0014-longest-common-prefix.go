@@ -7,12 +7,11 @@ func longestCommonPrefix(strs []string) string {
         for len(prefix) > len(strs[i]) || prefix != strs[i][:len(prefix)] && len(prefix) > 0 {
             
            prefix =  prefix[:len(prefix)-1]
-           fmt.Println(prefix)
            if len(prefix) <= len(strs[i]) {
              fmt.Println(strs[i][:len(prefix)], len(prefix))
            }
         }
-        fmt.Println("--------")
+
         if len(prefix) == 0 {
             return ""
         }
