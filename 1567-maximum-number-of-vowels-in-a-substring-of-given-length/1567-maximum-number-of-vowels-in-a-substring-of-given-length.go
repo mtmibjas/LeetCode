@@ -7,7 +7,6 @@ func maxVowels(s string, k int) int {
 			initalCount++
 		}
 	}
-	fmt.Println(initalCount)
 	m := initalCount
 	for i := 1; i < len(s)-k+1; i++ {
 		if slices.Contains(v, string(s[i-1])) {
