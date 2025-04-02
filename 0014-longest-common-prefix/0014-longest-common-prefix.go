@@ -1,19 +1,21 @@
 func longestCommonPrefix(strs []string) string {
-    com := strs[0]
+    
+    prefix := strs[0]
 
-    for len(com) > 0 {
-        isExist := true
-        for i := 1; i < len(strs); i++{
-            if len(com) > len(strs[i]) || !strings.Contains(strs[i][:len(com)], com) {
-                isExist = false
-                break
-            }
+    for i := 1; i < len(strs); i++{
+        
+        for len(prefix) > len(strs[i]) || prefix != strs[i][:len(prefix)] && len(prefix) > 0 {
+            
+           prefix =  prefix[:len(prefix)-1]
+           fmt.Println(prefix)
+           if len(prefix) <= len(strs[i]) {
+             fmt.Println(strs[i][:len(prefix)], len(prefix))
+           }
         }
-        if isExist{
-            return com
+        fmt.Println("--------")
+        if len(prefix) == 0 {
+            return ""
         }
-        com  = com[:len(com)-1]
     }
-
-    return ""
+    return prefix
 }
