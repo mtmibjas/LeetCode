@@ -7,21 +7,22 @@ func topKFrequent(nums []int, k int) []int {
     for _, n := range nums{
         m[n]++
     }
-    arr := []Num{}
+    arr := make([]Num, len(m))
+    index := 0
     for i, v := range m {
-      arr = append(arr, Num{Val:v, Key:i})
+      arr[index] =  Num{Val:v, Key:i}
+      index++
     }  
     
     sort.Slice(arr, func(i, j int) bool{
         return arr[i].Val > arr[j].Val
     })
 
-    res := []int{}
+   
     for i := 0; i < k; i++{
-        val := arr[i].Key
-        res = append(res, val)
+        nums[i] = arr[i].Key
     }
 
-    return res
+    return nums[:k]
 
 }
