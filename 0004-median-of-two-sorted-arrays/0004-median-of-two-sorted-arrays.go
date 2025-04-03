@@ -5,7 +5,7 @@ func findMedianSortedArrays(nums1 []int, nums2 []int) float64 {
 	sort.Ints(nums1)
 
 	mid := len(nums1) / 2
-	fmt.Println(nums1)
+
 	if len(nums1)%2 == 1 {
 		return float64(nums1[mid])
 	}
