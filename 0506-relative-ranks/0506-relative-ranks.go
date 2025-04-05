@@ -1,15 +1,13 @@
 func findRelativeRanks(score []int) []string {
 	temp := make([]int, len(score))
-    for i := 0; i < len(score); i++ {
-        temp[i] = score[i]
-    }
+    copy(temp,score)
 	sort.Slice(score, func(i, j int)bool{
         return score[i] > score[j] 
     })
 	m := make(map[int]string)
-
+	var s string
 	for i := 0; i < len(score); i++ {
-		s := ""
+	
 		if i+1 == 1 {
 			s = "Gold Medal"
 		} else if i+1 == 2 {
@@ -24,8 +22,7 @@ func findRelativeRanks(score []int) []string {
 
 	arr := []string{}
 	for i := 0; i < len(temp); i++ {
-		v, _ := m[temp[i]]
-		arr = append(arr, v)
+		arr = append(arr, m[temp[i]])
 	}
 	return arr
 }
