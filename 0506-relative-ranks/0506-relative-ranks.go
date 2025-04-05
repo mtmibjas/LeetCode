@@ -1,6 +1,8 @@
 func findRelativeRanks(score []int) []string {
-	temp := []int{}
-    temp = append(temp, score...)
+	temp := make([]int, len(score))
+    for i := 0; i < len(score); i++ {
+        temp[i] = score[i]
+    }
 	sort.Slice(score, func(i, j int)bool{
         return score[i] > score[j] 
     })
