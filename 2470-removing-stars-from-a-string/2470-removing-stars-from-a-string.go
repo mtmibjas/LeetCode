@@ -1,12 +1,13 @@
 func removeStars(s string) string {
-	stack := make([]byte, 0, len(s))
+	stack := make([]byte, len(s))
+    index := 0
 	for i := 0; i < len(s); i++ {
 		if s[i] == '*' {
-			stack = stack[:len(stack)-1]
+			index--
 			continue
 		}
-		stack = append(stack, s[i])
-
+		stack[index] =  s[i]
+        index++
 	}
-	return string(stack)
+	return string(stack[:index])
 }
