@@ -4,26 +4,19 @@ func closeStrings(word1 string, word2 string) bool {
 	}
 	arr1, idx1 := changeArray(word1)
 	arr2, idx2 := changeArray(word2)
-    if len(idx1) != len(idx2) {
-        return false
-    }
+   
 	sort.Ints(arr1[:])
     sort.Ints(arr2[:])
-    for k,_:= range idx1 {
-        if _, ok := idx2[k]; !ok {
-            return false
-        }
-    }
-
-    return arr1 == arr2 
+    
+    return arr1 == arr2 && idx1 == idx2
 }
 
-func changeArray(str string)([26]int, map[rune]struct{}){
+func changeArray(str string)([26]int, [26]int){
     arr := [26]int{}
-    m := make(map[rune]struct{})
+    idx := [26]int{}
 	for _, w := range str {
 		arr[w-'a']++
-        m[w-'a']= struct{}{}
+       idx[w-'a'] =1
 	}
-    return arr, m
+    return arr, idx
 }
