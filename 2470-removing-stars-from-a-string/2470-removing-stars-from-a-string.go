@@ -1,12 +1,13 @@
 func removeStars(s string) string {
-    arr := []rune{}
-
+    arr := []rune(s)
+    index := 0
     for _, r := range s {
-        if r == '*' {
-            arr = arr[:len(arr)-1]
+        if r == '*'{
+            index--
             continue
         }
-        arr = append(arr, r)
+        arr[index] = r
+        index++
     }
-    return string(arr)
+    return string(arr[:index])
 }
