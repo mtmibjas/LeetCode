@@ -1,7 +1,7 @@
 func removeStars(s string) string {
-    arr := []rune(s)
+    arr := []byte(s)
     index := 0
-    for _, r := range s {
+    for _, r := range arr {
         if r == '*'{
             index--
             continue
