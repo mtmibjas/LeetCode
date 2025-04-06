@@ -2,14 +2,8 @@ func closeStrings(word1 string, word2 string) bool {
 	if len(word1) != len(word2) {
 		return false
 	}
-	arr1 := [26]int{}
-	for _, w := range word1 {
-		arr1[w-'a']++
-	}
-	arr2 := [26]int{}
-	for _, w := range word2 {
-		arr2[w-'a']++
-	}
+	arr1 := changeArray(word1)
+	arr2 := changeArray(word2)
 
 	for i, n := range arr1 {
 		if n == 0 {
@@ -34,4 +28,12 @@ func closeStrings(word1 string, word2 string) bool {
 
 	}
 	return true
+}
+
+func changeArray(str string)[26]int{
+    arr := [26]int{}
+	for _, w := range str {
+		arr[w-'a']++
+	}
+    return arr
 }
