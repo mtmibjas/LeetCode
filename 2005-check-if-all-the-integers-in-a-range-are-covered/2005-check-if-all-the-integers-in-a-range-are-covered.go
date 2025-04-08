@@ -1,18 +1,17 @@
 func isCovered(ranges [][]int, left int, right int) bool {
-    
+    diff := make([]int, 52) 
 
-    for i := left; i <= right; i++ {
-        isFind := false
-        for _, r := range ranges {
-            if r[0] <= i && r[1] >= i {
-                isFind = true
-                break
-            } 
-        }
-        if !isFind {
+    for _, r := range ranges {
+        diff[r[0]]++
+        diff[r[1]+1]--
+    }
+
+    sum := 0
+    for i := 1; i <= 50; i++ {
+        sum += diff[i]
+        if i >= left && i <= right && sum == 0 {
             return false
         }
-        // fmt.Println(i)
     }
 
     return true
