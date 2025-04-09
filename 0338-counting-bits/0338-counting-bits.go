@@ -9,15 +9,11 @@ func countBits(n int) []int {
 }
 
 func CountNum(n int)int{
-    if n == 0 {
-        return 0
-    }
+    
     count := 0
     for n > 0 {
-		if n%2 == 1{
-            count++
-        }
-		n = n / 2
+		count += n & 1
+		n >>= 1
 	}
     return count
 }
