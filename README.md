@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-valid-mountain-array](https://github.com/mtmibjas/LeetCode/tree/master/0978-valid-mountain-array) |
 | [1044-find-common-characters](https://github.com/mtmibjas/LeetCode/tree/master/1044-find-common-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/mtmibjas/LeetCode/tree/master/1046-max-consecutive-ones-iii) |
+| [1115-valid-boomerang](https://github.com/mtmibjas/LeetCode/tree/master/1115-valid-boomerang) |
 | [1168-duplicate-zeros](https://github.com/mtmibjas/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1217-relative-sort-array](https://github.com/mtmibjas/LeetCode/tree/master/1217-relative-sort-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/mtmibjas/LeetCode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/mtmibjas/LeetCode/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/mtmibjas/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mtmibjas/LeetCode/tree/master/0268-missing-number) |
+| [1115-valid-boomerang](https://github.com/mtmibjas/LeetCode/tree/master/1115-valid-boomerang) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mtmibjas/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mtmibjas/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mtmibjas/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -329,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mtmibjas/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Geometry
+|  |
+| ------- |
+| [1115-valid-boomerang](https://github.com/mtmibjas/LeetCode/tree/master/1115-valid-boomerang) |
 <!---LeetCode Topics End-->
