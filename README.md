@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/mtmibjas/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mtmibjas/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/mtmibjas/LeetCode/tree/master/1603-running-sum-of-1d-array) |
+| [1635-number-of-good-pairs](https://github.com/mtmibjas/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1755-defuse-the-bomb](https://github.com/mtmibjas/LeetCode/tree/master/1755-defuse-the-bomb) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/mtmibjas/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mtmibjas/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/mtmibjas/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mtmibjas/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/mtmibjas/LeetCode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1635-number-of-good-pairs](https://github.com/mtmibjas/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mtmibjas/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mtmibjas/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mtmibjas/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/mtmibjas/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/mtmibjas/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1635-number-of-good-pairs](https://github.com/mtmibjas/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1777-determine-if-two-strings-are-close](https://github.com/mtmibjas/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mtmibjas/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/mtmibjas/LeetCode/tree/master/1848-sum-of-unique-elements) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/mtmibjas/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/mtmibjas/LeetCode/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mtmibjas/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1635-number-of-good-pairs](https://github.com/mtmibjas/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/mtmibjas/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/mtmibjas/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/mtmibjas/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
