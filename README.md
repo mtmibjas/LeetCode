@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1791-richest-customer-wealth](https://github.com/mtmibjas/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mtmibjas/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/mtmibjas/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [1944-truncate-sentence](https://github.com/mtmibjas/LeetCode/tree/master/1944-truncate-sentence) |
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/mtmibjas/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2058-concatenation-of-array](https://github.com/mtmibjas/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2159-two-out-of-three](https://github.com/mtmibjas/LeetCode/tree/master/2159-two-out-of-three) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/mtmibjas/LeetCode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/mtmibjas/LeetCode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mtmibjas/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1944-truncate-sentence](https://github.com/mtmibjas/LeetCode/tree/master/1944-truncate-sentence) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mtmibjas/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2470-removing-stars-from-a-string](https://github.com/mtmibjas/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2881-split-strings-by-separator](https://github.com/mtmibjas/LeetCode/tree/master/2881-split-strings-by-separator) |
