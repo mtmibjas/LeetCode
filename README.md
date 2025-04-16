@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2876-number-of-employees-who-met-the-target](https://github.com/mtmibjas/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2881-split-strings-by-separator](https://github.com/mtmibjas/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mtmibjas/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
+| [3194-find-words-containing-character](https://github.com/mtmibjas/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/mtmibjas/LeetCode/tree/master/3226-minimum-number-game) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/mtmibjas/LeetCode/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/mtmibjas/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mtmibjas/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2470-removing-stars-from-a-string](https://github.com/mtmibjas/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2881-split-strings-by-separator](https://github.com/mtmibjas/LeetCode/tree/master/2881-split-strings-by-separator) |
+| [3194-find-words-containing-character](https://github.com/mtmibjas/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/mtmibjas/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/mtmibjas/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Hash Table
