@@ -1,12 +1,9 @@
 func restoreString(s string, indices []int) string {
-	m := map[int]rune{}
-	for k, v := range s {
-		m[indices[k]] = v
-	}
 	
-	arr := make([]rune, len(indices))
+	
+	arr := make([]byte, len(indices))
 	for i := 0; i < len(indices); i++ {
-		arr[i] = m[i]
+		arr[indices[i]] = s[i]
 	}
 	return string(arr)
 }
