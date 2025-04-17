@@ -4,8 +4,6 @@ func restoreString(s string, indices []int) string {
 		m[indices[k]] = v
 	}
 	
-	sort.Ints(indices)
-
 	arr := make([]rune, len(indices))
 	for i := 0; i < len(indices); i++ {
 		arr[i] = m[i]
