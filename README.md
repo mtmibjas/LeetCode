@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2881-split-strings-by-separator](https://github.com/mtmibjas/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/mtmibjas/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/mtmibjas/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3379-score-of-a-string](https://github.com/mtmibjas/LeetCode/tree/master/3379-score-of-a-string) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/mtmibjas/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Hash Table
 |  |
