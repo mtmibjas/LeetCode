@@ -1,20 +1,21 @@
 func maxAscendingSum(nums []int) int {
-	right := 0
-	left := 0
-	max := 0
-	for left < len(nums) {
-		right = left+1
-		sum := nums[left]
-	
-		for right < len(nums) && nums[right-1] < nums[right] {
-			sum += nums[right]
-			right++
+	n := len(nums)
+	maxSum := nums[0]
+	currSum := nums[0]
+
+	for i := 1; i < n; i++ {
+		if nums[i] > nums[i-1] {
+			currSum += nums[i]
+		} else {
+			if currSum > maxSum {
+				maxSum = currSum
+			}
+			currSum = nums[i]
 		}
-		if max < sum {
-			max = sum
-		}
-		left++
+	}
+	if currSum > maxSum {
+		maxSum = currSum
 	}
 
-	return max
+	return maxSum
 }
