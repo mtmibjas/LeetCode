@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/mtmibjas/LeetCode/tree/master/3379-score-of-a-string) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/mtmibjas/LeetCode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3567-convert-date-to-binary](https://github.com/mtmibjas/LeetCode/tree/master/3567-convert-date-to-binary) |
+| [3811-reverse-degree-of-a-string](https://github.com/mtmibjas/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3226-minimum-number-game](https://github.com/mtmibjas/LeetCode/tree/master/3226-minimum-number-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mtmibjas/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/mtmibjas/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+| [3811-reverse-degree-of-a-string](https://github.com/mtmibjas/LeetCode/tree/master/3811-reverse-degree-of-a-string) |
 ## String Matching
 |  |
 | ------- |
