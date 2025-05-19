@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/mtmibjas/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/mtmibjas/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2561-number-of-distinct-averages](https://github.com/mtmibjas/LeetCode/tree/master/2561-number-of-distinct-averages) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/mtmibjas/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mtmibjas/LeetCode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/mtmibjas/LeetCode/tree/master/2639-separate-the-digits-in-an-array) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/mtmibjas/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mtmibjas/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2406-decode-the-message](https://github.com/mtmibjas/LeetCode/tree/master/2406-decode-the-message) |
 | [2470-removing-stars-from-a-string](https://github.com/mtmibjas/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2589-maximum-value-of-a-string-in-an-array](https://github.com/mtmibjas/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2881-split-strings-by-separator](https://github.com/mtmibjas/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/mtmibjas/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/mtmibjas/LeetCode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
