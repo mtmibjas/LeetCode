@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/mtmibjas/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mtmibjas/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2406-decode-the-message](https://github.com/mtmibjas/LeetCode/tree/master/2406-decode-the-message) |
+| [2427-first-letter-to-appear-twice](https://github.com/mtmibjas/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/mtmibjas/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/mtmibjas/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2881-split-strings-by-separator](https://github.com/mtmibjas/LeetCode/tree/master/2881-split-strings-by-separator) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2005-check-if-all-the-integers-in-a-range-are-covered](https://github.com/mtmibjas/LeetCode/tree/master/2005-check-if-all-the-integers-in-a-range-are-covered) |
 | [2159-two-out-of-three](https://github.com/mtmibjas/LeetCode/tree/master/2159-two-out-of-three) |
 | [2406-decode-the-message](https://github.com/mtmibjas/LeetCode/tree/master/2406-decode-the-message) |
+| [2427-first-letter-to-appear-twice](https://github.com/mtmibjas/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2428-equal-row-and-column-pairs](https://github.com/mtmibjas/LeetCode/tree/master/2428-equal-row-and-column-pairs) |
 | [2561-number-of-distinct-averages](https://github.com/mtmibjas/LeetCode/tree/master/2561-number-of-distinct-averages) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mtmibjas/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/mtmibjas/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1848-sum-of-unique-elements](https://github.com/mtmibjas/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/mtmibjas/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2427-first-letter-to-appear-twice](https://github.com/mtmibjas/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/mtmibjas/LeetCode/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3778-transform-array-by-parity](https://github.com/mtmibjas/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Bit Manipulation
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mtmibjas/LeetCode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mtmibjas/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2159-two-out-of-three](https://github.com/mtmibjas/LeetCode/tree/master/2159-two-out-of-three) |
+| [2427-first-letter-to-appear-twice](https://github.com/mtmibjas/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/mtmibjas/LeetCode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/mtmibjas/LeetCode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/mtmibjas/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
