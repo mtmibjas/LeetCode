@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-decode-the-message](https://github.com/mtmibjas/LeetCode/tree/master/2406-decode-the-message) |
 | [2427-first-letter-to-appear-twice](https://github.com/mtmibjas/LeetCode/tree/master/2427-first-letter-to-appear-twice) |
 | [2470-removing-stars-from-a-string](https://github.com/mtmibjas/LeetCode/tree/master/2470-removing-stars-from-a-string) |
+| [2580-circular-sentence](https://github.com/mtmibjas/LeetCode/tree/master/2580-circular-sentence) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/mtmibjas/LeetCode/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2881-split-strings-by-separator](https://github.com/mtmibjas/LeetCode/tree/master/2881-split-strings-by-separator) |
 | [3194-find-words-containing-character](https://github.com/mtmibjas/LeetCode/tree/master/3194-find-words-containing-character) |
