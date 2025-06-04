@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/mtmibjas/LeetCode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/mtmibjas/LeetCode/tree/master/0029-divide-two-integers) |
+| [0070-climbing-stairs](https://github.com/mtmibjas/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/mtmibjas/LeetCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mtmibjas/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/mtmibjas/LeetCode/tree/master/0412-fizz-buzz) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mtmibjas/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/mtmibjas/LeetCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mtmibjas/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mtmibjas/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/mtmibjas/LeetCode/tree/master/0338-counting-bits) |
@@ -403,4 +405,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/mtmibjas/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mtmibjas/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
